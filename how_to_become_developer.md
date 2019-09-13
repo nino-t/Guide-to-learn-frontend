@@ -14,7 +14,7 @@
 
       
 
-      Membuat landing page "nonton movie tanpa" menggunakan framework css. disini kita hanya menggunakan CSS dan HTML.
+      Membuat landing page "nonton movie" tanpa menggunakan framework css. disini kita hanya menggunakan CSS dan HTML.
 
       
 
