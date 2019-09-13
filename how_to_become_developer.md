@@ -20,6 +20,6 @@
 
    2. Basic of Javascript (Upcoming)
 
-   3. Package Manager (NPM atau Yarn)
+   3. Package Manager (NPM atau Yarn) (Upcoming)
 
-   4. CSS pre-processors (SASS)
+   4. CSS pre-processors (SASS) (Upcoming)
