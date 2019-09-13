@@ -14,12 +14,12 @@
 
       
 
-      Membuat landing page "nonton movie tanpa" menggunakan framework css. disini kita hanya menggunakan CSS dan HTML.
+      Membuat landing page "nonton movie" tanpa menggunakan framework css. disini kita hanya menggunakan CSS dan HTML.
 
       
 
    2. Basic of Javascript (Upcoming)
 
-   3. Package Manager (NPM atau Yarn)
+   3. Package Manager (NPM atau Yarn) (Upcoming)
 
-   4. CSS pre-processors (SASS)
+   4. CSS pre-processors (SASS) (Upcoming)
